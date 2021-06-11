@@ -92,7 +92,7 @@ Lambda calculus is a term rewrite system.
 
 A Turing machine is an automaton.
 
-Lafont’ [Interaction Combinators](https://pdfs.semanticscholar.org/6cfe/09aa6e5da6ce98077b7a048cb1badd78cc76.pdf) is a graph rewrite system, where you use graphs with two types of 3 valent nodes and one type of 1 valent node.  Mind that we work with [port graphs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.5446&rep=rep1&type=pdf), where nodes have numbered ports.
+Lafont’ [Interaction Combinators](https://pdfs.semanticscholar.org/6cfe/09aa6e5da6ce98077b7a048cb1badd78cc76.pdf) is a graph rewrite system, where you use graphs with two types of 3 valent nodes and one type of 1 valent node.  Mind that we work with [port graphs](https://dspace.mit.edu/handle/1721.1/7085), where nodes have numbered ports.
 
 ![Lafont' Interaction Combinators](img/2846.jpg)
 
