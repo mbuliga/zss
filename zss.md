@@ -7,7 +7,7 @@
 
 This is based on the transcript of a talk from September 2020, which I gave at the [Quantum Topology Seminar](https://www.dropbox.com/sh/5c3xihm2mkdo5s5/AADl_aRwAB3EfT2YpiLfCRZ-a?dl=0) organized by Louis Kauffman.
 
-There is a [video of the talk](https://www.dropbox.com/sh/5c3xihm2mkdo5s5/AABDoNpc6K4XioJqesIy6vdma/MariusBuliga?dl=0&preview=zoom_0.mp4&subfolder_nav_tracking=1) and a [github repository](https://github.com/mbuliga/zss) associated with ZSS. This transcript is also [available on telegram](https://telegra.ph/ZSS-Zipper-logic-revisited-06-09).
+There is a [video of the talk](https://www.dropbox.com/sh/5c3xihm2mkdo5s5/AABDoNpc6K4XioJqesIy6vdma/MariusBuliga?dl=0&preview=zoom_0.mp4&subfolder_nav_tracking=1) and a [github repository](https://github.com/mbuliga/zss) associated with ZSS. This transcript is also [available on telegram](https://telegra.ph/ZSS-Zipper-logic-revisited-06-09). In article form see Buliga, Marius (2021): ZSS: Zipper logic revisited. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.14769666.v1 
 
 
 
