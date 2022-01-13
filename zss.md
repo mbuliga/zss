@@ -36,7 +36,7 @@ My source of interest in the problem if we can compute with the R moves comes fr
 
 ![definition of emergent algebras](img/2626.jpg)
 
-See [A problem in emergent algebras](https://mbuliga.github.io/colin/colin.pdf)  for a short description of emergent algebras and 
+See [COLIN implies LIN for emergent algebras](https://mbuliga.github.io/colin/colin-rev.pdf) or [arXiv:2110.08178](https://arxiv.org/abs/2110.08178) for a short description of emergent algebras and 
 [arXiv:1807.02058](https://arxiv.org/abs/1807.02058) for an associated lambda calculus style term rewriting system. 
 
 By the usual correspondence between quandles and crossings, in emergent algebras we can perform the Reidemeister 1 and 2 moves, but not the R3. On the other hand, we can pass to the limit with the parameter which decorates the operations (or crossings).
